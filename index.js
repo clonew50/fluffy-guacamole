@@ -92,7 +92,7 @@ app.get('/logout', (req, res) => {
 });
 
 // ----- Start server -----
-app.listen(3000, () => {
-    console.log('🔥 Vulnerable app running at http://localhost:3000');
-    console.log('👉 Visit /setup first to create the database');
-});
+//app.listen(3000, () => {
+  //  console.log('🔥 Vulnerable app running at http://localhost:3000');
+    //console.log('👉 Visit /setup first to create the database');
+//});
